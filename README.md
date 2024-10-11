@@ -1,0 +1,2 @@
+# computational_linguistics_1
+METHODS IN COMPUTATIONAL LINGUISTICS I
