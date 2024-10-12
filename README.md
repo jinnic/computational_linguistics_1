@@ -1,7 +1,5 @@
 # METHODS IN COMPUTATIONAL LINGUISTICS I 
-CUNY GRADUATE CENTER – FALL 2024
-Instructor: Prof. Spencer Caplan
-Practicum leader: Mei Ying Ki
+
 ***
 
 ## Courses
